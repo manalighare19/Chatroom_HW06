@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChatRoom</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="Cancel">Cancel</string>
+    <string name="SignUp">SignUp</string>
+    <string name="addNewThread">Add New Thread</string>
+    <string name="username">User Name</string>
+    <string name="addthread">Add Thread</string>
+    <string name="logout">Logout</string>
+    <string name="threadName">Thread Name</string>
+    <string name="currentthreads">Current Threads</string>
+    <string name="threadTitle">Thread Title</string>
+    <string name="send">Send</string>
+    <string name="messageDescription">Message Description</string>
+    <string name="messagepostedby">Message Posted By</string>
+    <string name="messagedate">Message Date</string>
+    <string name="TitleOfThreadScreen">Message Threads</string>
+</resources>
